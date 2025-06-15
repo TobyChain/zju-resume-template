@@ -1,6 +1,9 @@
 # ZJU LaTeX Resume Template
 这是一个浙江大学 LaTeX 简历模板，并支持中文和英文内容。
 
+## 🥳 效果
+![简历效果](CV.png)
+
 ## 📝 环境与依赖 (Environment & Dependencies)
 
 ### 1. TeX 发行版 (Distribution)
