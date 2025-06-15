@@ -25,6 +25,7 @@
 ├── Makefile                         # 编译脚本
 ├── README.md                        # 说明文件
 ├── avatar.jpg                       # 个人照片
+├── CV.png                           # 简历预览图
 ├── zju.png                          # 学校 Logo
 ├── fontawesomesymbols-generic.tex   # (必须) FontAwesome 定义文件
 ├── fontawesomesymbols-pdftex.tex    # (必须) FontAwesome 定义文件
